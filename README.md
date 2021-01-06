@@ -1,9 +1,9 @@
+**NOTE:** This codelab is deprecated. For similar functionality, use the [Full stack store loccator](https://developers.google.com/codelabs/maps-platform/full-stack-store-locator) codelab instead.
+
 # NYC Subway Station Locator
 
 These are the resource files needed for the [NYC Subway Station Locator](https://codelabs.developers.google.com/codelabs/nyc-subway-station-locator/)
 code lab from Google.
-
-This is a work in progress, if you find a mistake, please [file an issue](https://github.com/googlecodelabs/nyc-subway-station-locator/issues). Thanks!
 
 ## Introduction for the [NYC Subway Station Locator codelab](https://codelabs.developers.google.com/codelabs/nyc-subway-station-locator/)
 
